@@ -35,17 +35,17 @@ body {
 }
 
 button {
-	background: #255ff4;
+	background: #0048ff;
   display: center;
-	border-radius: 0.2em;
-	color: #fff;
+	color: rgb(255, 255, 255);
 	cursor: pointer;
   border: 0;
 	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-  padding: 0.5em 1em;
+  padding: 8px 10px;
 	width: 10.5em;
+  border-radius: 10px;
+  box-shadow: 8px 8px 16px  rgba(0, 0, 0, 0.1);
+  opacity: 1;
 }
 
 
